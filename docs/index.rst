@@ -8,7 +8,7 @@ How to Install Iolo System Mechanic on Your PC
 
 Iolo System Mechanic is one of the best PC optimization programs available. It helps users speed up and stabilize their computers, solve registry problems, and get rid of trash files. The first thing you need to do if you just bought a license or want to try out the utility is figure out how to install Iolo System Mechanic on your computer the right way.
 
-.. image:: click-install-in.jpg
+.. image:: click-install-in.png
    :alt: My Project Logo
    :width: 350px
    :align: center
